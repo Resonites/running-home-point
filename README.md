@@ -22,30 +22,3 @@ public class DoPayroll {
         aScanner.nextLine();
     }
 }
-
-
-
-
-
-element.style {
-
-
-
-}
-body.main-page {
-    background: #f7f7f7;
-}
-body {
-    font-family: Open Sans;
-}
-html, body {
-    padding: 0;
-    margin: 0;
-    width: 100%;
-    height: 100%;
-}
-user agent stylesheet
-body {
-    display: block;
-    margin: 8px;
-}
